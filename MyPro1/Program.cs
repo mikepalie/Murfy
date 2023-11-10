@@ -12,7 +12,7 @@ namespace MyPro1
         {
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine();
+            Console.WriteLine("Peinasa");
         }
     }
 }
