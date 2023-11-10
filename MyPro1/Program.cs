@@ -10,7 +10,7 @@ namespace MyPro1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine("Kalispera");
             Console.WriteLine();
             Console.WriteLine("Peinasa");
         }
