@@ -10,9 +10,18 @@ namespace MyPro1
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
             Console.WriteLine("Kalispera");
             Console.WriteLine();
             Console.WriteLine("Peinasa");
+>>>>>>> 965a76054a5dcedd69c1337389102a3c80113aec
+=======
+            Console.WriteLine("Kalispera");
+            Console.WriteLine();
+            Console.WriteLine("Peinasa");
+>>>>>>> 965a76054a5dcedd69c1337389102a3c80113aec
         }
     }
 }
